@@ -5,12 +5,12 @@
     background-color: #48E0AA;
    }
 .A h1 {
-    color: #48B3E0;
+    color:blue ;
     font-size: 5.625rem;
     margin: 50px auto 0 auto;
     font-family: 'Dancing Script', cursive;
 }
 .A h2 {
-    color: blue;
+    color: #48B3E0;
     font-family: 'Satisfy', cursive;
 }
