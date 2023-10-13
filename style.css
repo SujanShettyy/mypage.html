@@ -2,15 +2,15 @@
     margin: 0;
     text-align: center;
     margin: 50px;
-    background-color: #48E0AA;
+    background-color: #2EEFF2;
    }
 .A h1 {
-    color:blue ;
+    color: #2EB1F2 ;
     font-size: 5.625rem;
     margin: 50px auto 0 auto;
     font-family: 'Dancing Script', cursive;
 }
 .A h2 {
-    color: #48B3E0;
+    color: #FFFFFF;
     font-family: 'Satisfy', cursive;
 }
